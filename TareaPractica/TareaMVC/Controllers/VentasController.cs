@@ -19,6 +19,7 @@ namespace TareaMVC.Controllers
         {
             return View(db.Ventas.ToList());
         }
+        //hola
 
         // GET: Ventas/Details/5
         public ActionResult Details(int? id)
