@@ -21,6 +21,7 @@ namespace TareaMVC.Controllers
         }
         //hola
         //hola
+        //hola
         // GET: Ventas/Details/5
         public ActionResult Details(int? id)
         {
